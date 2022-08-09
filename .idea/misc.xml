@@ -13,8 +13,11 @@
         <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/drawable/previous_btn.xml" value="0.164" />
         <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/drawable/shuffle_icon.xml" value="0.164" />
         <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/layout/activity_favorite.xml" value="0.136" />
         <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/layout/activity_playlist.xml" value="0.2359375" />
+        <entry key="..\:/Android Studio Workspace/MusicPlayer/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.25" />
       </map>
     </option>
   </component>
