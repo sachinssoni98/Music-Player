@@ -15,6 +15,7 @@
             android:weightSum="3">
 
             <Button
+                android:id="@+id/btn_shuffle"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -22,9 +23,10 @@
                 android:drawableTop="@drawable/shuffle_icon"
                 android:text="Shuffle"
                 android:textColor="@color/black"
-                android:textAllCaps="false"/>
+                android:textAllCaps="false" />
 
             <Button
+                android:id="@+id/btn_fav"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -35,6 +37,7 @@
                 android:textAllCaps="false"/>
 
             <Button
+                android:id="@+id/btn_playlist"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
